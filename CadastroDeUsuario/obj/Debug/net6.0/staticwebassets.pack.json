@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\cadastroEEditar.html",
+      "PackagePath": "staticwebassets\\cadastroEEditar.html"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\detalhes.html",
+      "PackagePath": "staticwebassets\\detalhes.html"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\js\\CRUD\\criarEEditar.js",
+      "PackagePath": "staticwebassets\\js\\CRUD\\criarEEditar.js"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\js\\CRUD\\detalhesUsuario.js",
+      "PackagePath": "staticwebassets\\js\\CRUD\\detalhesUsuario.js"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\js\\CRUD\\obterTodos.js",
+      "PackagePath": "staticwebassets\\js\\CRUD\\obterTodos.js"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\js\\UsuarioRepositorio.js",
+      "PackagePath": "staticwebassets\\js\\UsuarioRepositorio.js"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Downloads\\CadastroDeUsuario\\CadastroDeUsuario\\CadastroDeUsuario\\wwwroot\\js\\api.js",
+      "PackagePath": "staticwebassets\\js\\api.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CadastroDeUsuario.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CadastroDeUsuario.props",
+      "PackagePath": "build\\CadastroDeUsuario.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CadastroDeUsuario.props",
+      "PackagePath": "buildMultiTargeting\\CadastroDeUsuario.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CadastroDeUsuario.props",
+      "PackagePath": "buildTransitive\\CadastroDeUsuario.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
